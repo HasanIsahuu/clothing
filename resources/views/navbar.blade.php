@@ -47,7 +47,7 @@
 
 
         <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand" href="#"><img width="115px" src="https://www.seekpng.com/png/full/70-705495_15-jordan-png-for-free-download-on-mbtskoudsalg.png" alt=""></a>
+            <a class="navbar-brand" href="#"><img width="115px" src="https://c.tenor.com/hLQHo8YyYooAAAAC/nike-shoe.gif" alt=""></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
